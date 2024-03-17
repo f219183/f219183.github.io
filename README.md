@@ -1,2 +1,2 @@
-# Weather-App-
-Weather Application using the OpenWeather Api
+# Weather Forcast App
+This is a weather forcasting one page app using the OpenWeather Api
